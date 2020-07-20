@@ -5,10 +5,3 @@ A Space rock game made by using Gamemaker Studio 2.
 You must purchase Gamemaker Studio 2 Desktop on Yoyogames to build this project for desktop like Windows, MacOS, ext.  
 GOD DAMN Plz make build free its really expensive to buy.
 
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
